@@ -2,17 +2,18 @@ html {
   box-sizing: border-box;
 }
 
-*, *::before, *::after {
+*,
+*::before,
+*::after {
   box-sizing: inherit;
   margin: 0;
   padding: 0;
 }
 
 body {
- font-family:
- -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans,
-  Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
- line-height: 1.4;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  line-height: 1.4;
 }
 
 .container {
@@ -80,7 +81,7 @@ input[type="checkbox"] {
 }
 
 .tick::before {
-  content: '✓';
+  content: "✓";
   font-size: 20px;
   display: none;
 }
@@ -126,7 +127,8 @@ input[type="text"] {
   margin-bottom: 20px;
 }
 
-.empty-state__title, .empty-state__description {
+.empty-state__title,
+.empty-state__description {
   margin-bottom: 20px;
 }
 

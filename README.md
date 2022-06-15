@@ -1,6 +1,6 @@
 # Svelte 3 Todo List App starter files
 
-Starter files for the Todo List app built with Svelte 3. Tutorial: https://freshman.tech/svelte-todo/
+Starter files for the Todo List app built with Svelte 3. Tutorial: <https://freshman.tech/svelte-todo/>
 
 [Here's a live demo of the completed application](http://svelte3-todo.surge.sh/).
 
