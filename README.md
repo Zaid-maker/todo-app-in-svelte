@@ -1,17 +1,16 @@
-# Svelte 3 Todo List App starter files
+# Todo List App in Svelte
 
-Starter files for the Todo List app built with Svelte 3. Tutorial: <https://freshman.tech/svelte-todo/>
-
-[Here's a live demo of the completed application](http://svelte3-todo.surge.sh/).
-
-The code in this repo is meant to be a reference point for anyone following along with the tutorial.
+[live demo of the App](https://todo-app-in-svelte.vercel.app/)
 
 ## Prerequisites
 
-You need to have Node.js and npm installed on your computer
+- [Node.js (16.x)](https://nodejs.org/)
+- [NPM (8.x)](https://www.npmjs.com/)
 
-## Getting started
+## Getting Started
 
-Clone this repository to your filesystem.
-
-`cd` into the project directory and follow along with the [tutorial](https://freshman.tech/svelte-todo/).
+- Clone the repository.
+- Install dependencies by running `npm install`.
+- Run the application by running `npm start`.
+- Open the browser and navigate to `http://localhost:3000`.
+- You should see a Todo List App :)
