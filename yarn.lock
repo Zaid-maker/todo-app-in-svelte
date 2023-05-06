@@ -1382,10 +1382,10 @@ supports-color@^6.1.0:
   dependencies:
     has-flag "^3.0.0"
 
-svelte@^3.0.0:
-  version "3.6.5"
-  resolved "https://registry.npmjs.org/svelte/-/svelte-3.6.5.tgz"
-  integrity sha512-9H7IczBJChcqdmF7AeIw0S39EgS76StLL8gDVTrDfgb/nfZHBgxFYJ35zar7Ua+AekyLETKVw81hZ1Zel4YcUA==
+svelte@^3.59.0:
+  version "3.59.0"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.59.0.tgz#0d991cb1af5e4b61aad2021b004815aad05e7ee1"
+  integrity sha512-Di1wVPwdWriw5pSyInMRpr5EZmwrzKxtDKv5aXu8A/WDUi59Y5bIvl42eLef0x1vwz+ZtrjdnT8nXir2bDqR/A==
 
 terser@^3.14.1:
   version "3.17.0"
